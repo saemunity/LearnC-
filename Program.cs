@@ -3,4 +3,4 @@ SessionSix six = new SessionSix();
 // six.InfoArchers();
 SessionEight eight  = new SessionEight();
 // eight.AddItems();
-// eight.AddItems();
+eight.InputDataStudent();
