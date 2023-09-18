@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Program\\Learning\\C#\\LearnC#\\LearnC#.csproj": {}
+    "d:\\Program\\Learning\\C#\\LearnC#\\LearnC#.csproj": {}
   },
   "projects": {
-    "D:\\Program\\Learning\\C#\\LearnC#\\LearnC#.csproj": {
+    "d:\\Program\\Learning\\C#\\LearnC#\\LearnC#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Program\\Learning\\C#\\LearnC#\\LearnC#.csproj",
+        "projectUniqueName": "d:\\Program\\Learning\\C#\\LearnC#\\LearnC#.csproj",
         "projectName": "LearnC#",
-        "projectPath": "D:\\Program\\Learning\\C#\\LearnC#\\LearnC#.csproj",
+        "projectPath": "d:\\Program\\Learning\\C#\\LearnC#\\LearnC#.csproj",
         "packagesPath": "C:\\Users\\huanh\\.nuget\\packages\\",
-        "outputPath": "D:\\Program\\Learning\\C#\\LearnC#\\obj\\",
+        "outputPath": "d:\\Program\\Learning\\C#\\LearnC#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\huanh\\AppData\\Roaming\\NuGet\\NuGet.Config"
